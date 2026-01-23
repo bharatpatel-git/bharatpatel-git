@@ -8,7 +8,7 @@
 
 - 💬 Ask me about HTML, CSS,C
 
-- 📫 How to reach me contact.thescriptylad@gmail.com </p>
+- 📫 How to reach me connect.bharatpatel@gmail.com </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
