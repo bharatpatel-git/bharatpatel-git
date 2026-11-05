@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tenor.com/view/you-are-not-alone-you-are-alone-on-this-one-bro-you-are-not-alone-on-this-one-bro-gif-4837803145304080034"></a>
+  <img src="https://tenor.com/fVxlVulk48A.gif">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Bharat!</h1>
