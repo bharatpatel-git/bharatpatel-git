@@ -36,15 +36,6 @@
 
 ---
 
-### 🚦 Proof of Life (My GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</p>
-
----
-
 <p align="center">
  ☕ <i>"Fueled by caffeine, existential dread, and the occasional stack overflow thread from 2014."</i>
 </p>
