@@ -2,7 +2,7 @@
   <img src="https://your-image-url-here.png" alt="Sarcastic Multitasking Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm [YOUR NAME]!</h1>
+<h1 align="center">Hi there 👋, I'm Bharat!</h1>
 <p align="center">
   <b>Data Analyst</b> (by day) | <b>Developer</b> (by night) | <b>Designer</b> (when the fonts hurt my eyes)
 </p>
