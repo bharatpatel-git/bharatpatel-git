@@ -35,7 +35,3 @@
 | `Tableau` • `PowerBI` • `R` | `Node.js` • `Git` • `Express` | `UI/UX` • `Nudging 1px` |
 
 ---
-
-<p align="center">
- ☕ <i>"Fueled by caffeine, existential dread, and the occasional stack overflow thread from 2014."</i>
-</p>
