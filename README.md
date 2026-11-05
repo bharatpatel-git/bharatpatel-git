@@ -1,49 +1,20 @@
-<p align="center">
-  <img src="https://c.tenor.com/QyNUVDEd_qIAAAAC/tenor.gif" alt="You are alone on this one bro">
-</p>
-
-<h1 align="center">Hi there 👋, I'm Bharat!</h1>
-<p align="center">
-  <b>Data Analyst</b> (by day) | <b>Developer</b> (by night) | <b>Designer</b> (when the fonts hurt my eyes)
-</p>
-
----
-
 <div align="center">
 
-### 🛠️ The "Jack of All Trades, Master of Some" Stack
-
-*“A jack of all trades is a master of none, but oftentimes better than a master of one.”*
+<!-- ARCADE HEADER BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=INSERT+COIN+TO+START;PLAYER+1+READY%3A+BHARAT;SELECT+YOUR+CHARACTER..." alt="Arcade Title Typist" />
 
 <br/>
 
-<table border="0">
-  <tr align="center">
-    <th>📊 Data & Analytics</th>
-    <th>💻 Dev & Engineering</th>
-    <th>🎨 Visual & 3D</th>
-  </tr>
-  <tr align="center">
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,postgres,bash&theme=dark" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-    </td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,git&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://c.tenor.com/QyNUVDEd_qIAAAAC/tenor.gif" alt="You are alone on this one bro" width="380">
+</p>
 
-</div>
----
+<!-- RETRO HUD / PLAYER BIO -->
+```text
+╔════════════════════════════════════════════════════════════════╗
+║ [P1] BHARAT           SCORE: 999990            LIVES: ❤️ ❤️ ❤️  ║
+║                                                                ║
+║ CLASS: 📊 Data Wizard (Day) | 💻 Code Rogue (Night)             ║
+║ PERK:  🎨 Visual Specialist (When bad kerning strikes)         ║
+║ QUEST: Mastering the Multiverse Stack                          ║
+╚════════════════════════════════════════════════════════════════╝
