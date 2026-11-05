@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url-here.png" alt="Sarcastic Multitasking Banner" width="100%" />
+  <div class="tenor-gif-embed" data-postid="4837803145304080034" data-share-method="host" data-aspect-ratio="1.82" data-width="100%"><a href="https://tenor.com/view/you-are-not-alone-you-are-alone-on-this-one-bro-you-are-not-alone-on-this-one-bro-gif-4837803145304080034">You Are Not Alone You Are Alone On This One Bro Meme</a>from <a href="https://tenor.com/search/you+are+not+alone-memes">You Are Not Alone Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Bharat!</h1>
