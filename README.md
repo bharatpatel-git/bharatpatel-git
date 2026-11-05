@@ -9,11 +9,11 @@
 
 ---
 
+<div align="center">
+
 ### 🛠️ The "Jack of All Trades, Master of Some" Stack
 
 > *“A jack of all trades is a master of none, but oftentimes better than a master of one.”*
-
-### 🛠️ The "Jack of All Trades, Master of Some" Stack
 
 | 📊 Data & Analytics | 💻 Development & Tools | 🎨 Visual & Experience |
 | :--- | :--- | :--- |
@@ -22,5 +22,7 @@
 | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-000000?style=flat-square&logo=designernews&logoColor=white) |
 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | |
 | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | |
+  
+</div>
 
 ---
